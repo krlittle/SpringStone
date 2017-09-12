@@ -1,4 +1,6 @@
 # SpringStone
+![#005B00](https://placehold.it/15/005B00/000000?text=+) SpringStone's <code>master</code> branch is working
+
 SpringStone is a full stack Spring Boot application that will wrap the [unofficial Hearthstone API on Mashape](https://market.mashape.com/omgvamp/hearthstone).
 
 The purpose of this project is to serve as a boilerplate for making simple Hearthstone websites.
