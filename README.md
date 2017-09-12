@@ -11,4 +11,7 @@ In your `application-secret.properties` file, you will want to provide the follo
 input.key=<the key to your application that your registered on Mashape for the unofficial Hearthstone API>
 ```
 ## How to Run
-Run `SpringStoneServer.java` and open your browser to http://localhost:8081.
+Run `SpringStoneServer.java` and open your browser to http://localhost:8081
+
+## API Documentation
+API Documentation is provided through Swagger UI.  To access this documentation, open your browser to http://localhost:8081/swagger-ui.html
